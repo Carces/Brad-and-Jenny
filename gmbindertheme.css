@@ -1,11 +1,10 @@
 /** Import Fonts **/
 @import url('https://fonts.googleapis.com/css?family=IM+Fell+English');
 @import url('https://fonts.googleapis.com/css?family=Uncial+Antiqua');
-
 /** Defining fonts **/
 @font-face {
-
-  src: url('https://github.com/Carces/Brad-and-Jenny/blob/main/csnpwdt%20NFI.ttf')
+  font-family: 'First Order';
+  src: url('https://groumy.github.io/homebrewery-sotdl/fonts/firstv2.ttf')
 }
 @font-face {
   font-family: 'GothamBold';
